@@ -1,0 +1,81 @@
+h1{
+    text-align: center;
+    font-family:  'Londrina Solid', cursive;
+    font-size: 100px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    margin-top: 20px;
+}
+.c1{
+    width: 298px;
+    height: 600px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    float: left;
+    margin: 30px;
+    border: 2px solid white;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+h3{
+    text-align: center;
+    font-family: 'Kenia', cursive;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+h5{
+    text-align: center;
+    padding: 10px;
+}
+.image1{
+    height: 320px;
+    width: 298px;
+    border-radius: 30px;
+}
+/* .image2{
+    /* margin-left: 60px; */
+    /* margin: 3px;
+}
+ */
+.stardiv{
+    height: 25px;
+    width: 104px;
+    background-color: transparent;
+    margin-left: 96px;
+    margin-top: 40px;
+}
+body{
+    background-image:url(./image/desktop-wallpaper-star-wars-background-star-wars-landscape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h6{
+    color: #FF0000;
+    text-align: center;
+    margin-top: -20px;
+}
+.button{
+    text-align: center;
+    margin-top: 0px;
+   
+  
+}
+.b1{
+    text-align: center;
+    height: 30px;
+    width: 400px;
+    margin-top: 40px;
+    border: 2px solid black;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.b2{
+    background-color:black;
+    color: white;
+    height: 30px;
+}
+.c1:hover{
+    background-image: none;
+    color: #0448da;
+}
